@@ -24,10 +24,19 @@ chegando la assisto aula ate as <b>11 horas</b>, vou para o trabalho onde almoç
   
   <b>Me encontre no facebook!</b> <a href="https://www.facebook.com/">clique</a>
 <img src="https://christianosantos.com/files/cs1/avatar-mulher.jpg">
-<video src="https://www.w3schools.com/tags/movie.mp4" autoplay>
+<video src="https://www.w3schools.com/tags/movie.mp4" 
+    autoplay
+    controls
+    loop
+    >
  </video>
 
-<audio src="http://www.w3schools.com/tags/horse.mp3" autoplay>
+<audio
+
+  src="http://www.w3schools.com/tags/horse.mp3" 
+  autoplay
+  loop
+>
 </audio>
   
   
