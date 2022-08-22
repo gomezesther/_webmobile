@@ -1,29 +1,37 @@
+<!DOCTYPE html>
+
 <html>
+  
 
-
-
+  
 <head>
 <title>Izabella Esther</title>
 </head>
 
+  
+  
+  <body>
+  
+<h1> Biografia de Izabella Esther</h1>
+<p>Minha rotina diaria consiste em acordar as <b>5:30</b> da manhã me organizar para ir a  universidade
+chegando la assisto aula ate as <b>11 horas</b>, vou para o trabalho onde almoço e começo o espediente as 
+<b>12 horas</b> que dura ate as <b>18 horas</b> onde volto para casa.</p>
+  
+  
+  
+ <em>Só sei que nada sei.</em> ~Sócrates
+  
+  
+  <b>Me encontre no facebook!</b> <a href="https://www.facebook.com/">clique</a>
+<img src="https://christianosantos.com/files/cs1/avatar-mulher.jpg">
+<video src="https://www.w3schools.com/tags/movie.mp4" autoplay>
+ </video>
 
-
-<body>
-	<h1> Biografia de Izabella Esther</h1>
-
-	<p>Minha rotina diaria consiste em acordar as <b>5:30</b> da manhã me organizar para ir a  universidade
-	chegando la assisto aula ate as <b>11 horas</b>, vou para o trabalho onde almoço e começo o espediente as 
-	<b>12 horas</b> que dura ate as <b>18 horas</b> onde volto para casa.</p>
-	<i>Só sei que nada sei.</i> ~Sócrates
-	
-	<p>Me encontre no facebook!</p>
-	<a href="https://www.facebook.com/">clique</a>
-	<img src="https://christianosantos.com/files/cs1/avatar-mulher.jpg">
-	
-	
-	<video src="https://www.w3schools.com/tags/movie.mp4" controls>
-	</video>
-	<audio src="https://christianosantos.com/files/cs1/musica01.mp3" loop>
-	</audio>
+<audio src="http://www.w3schools.com/tags/horse.mp3" autoplay>
+</audio>
+  
+  
 </body>
+  
+  
 </html>
